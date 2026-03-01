@@ -1,0 +1,37 @@
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(81, 76, 76);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    
+
+}
+.navbar a{
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    padding: 15px;
+    color: aliceblue;
+}
+.navbar li{
+    float: right;
+}
+.navbar a:hover{
+    color: black;
+    background-color: azure;
+}
+main{
+    font-style: italic;
+    color: blue;
+    text-align: left;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    color: black;
+    font-style: italic;
+}
+h3{
+    font-style: italic;
+}
